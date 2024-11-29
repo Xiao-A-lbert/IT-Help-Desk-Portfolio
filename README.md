@@ -5,5 +5,5 @@
 
 - <b>Administering Users in Linux</b>
   - https://github.com/Xiao-A-lbert/Administering-Users-in-Linux/blob/main/README.md 
-- <b>Bash SCripting in Linux</b>
+- <b>Bash Scripting in Linux</b>
   - https://github.com/Xiao-A-lbert/Bash-Scripting-in-Linux/blob/main/README.md
