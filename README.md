@@ -20,5 +20,7 @@
     - https://github.com/Xiao-A-lbert/Administering-Users-in-Windows-11
 
 # Other Tickets
-  - <b>Help Desk Ticket: Computer won't power on<b>
+  - <b>Help Desk Ticket: Computer won't power on!<b>
     - https://github.com/Xiao-A-lbert/Help-Desk-Ticket-Computer-Won-t-Power-On/tree/main
+  - <b>Help Desk Ticket: My internet won't work!<b>
+    - https://github.com/Xiao-A-lbert/Help-Desk-Ticket-My-internet-won-t-work-/tree/main
