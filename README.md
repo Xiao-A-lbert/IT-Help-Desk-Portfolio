@@ -30,3 +30,5 @@
     - https://github.com/Xiao-A-lbert/Help-Desk-Ticket-Computer-Won-t-Power-On/tree/main
   - <b>Help Desk Ticket: My internet won't work!<b>
     - https://github.com/Xiao-A-lbert/Help-Desk-Ticket-My-internet-won-t-work-/tree/main
+  - <b>Peppermint Ticketing User Administration and Ticket Escalation<b>
+    - https://github.com/Xiao-A-lbert/Peppermint-Ticketing-User-Administration-and-Ticket-Escalation/blob/main/README.md
