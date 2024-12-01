@@ -20,7 +20,9 @@
     - https://github.com/Xiao-A-lbert/Administering-Users-in-Windows-11
   - <b>Windows 11 Virtual Machine Setup in virtualbox<b>
     - https://github.com/Xiao-A-lbert/Windows-11-Virtual-Machine-Setup-in-virtualbox/blob/main/README.md
-      
+  - <b>RDP into a Windows Machine from Linux<b>
+    - https://github.com/Xiao-A-lbert/RDP-into-Windows-Machine-from-Linux/blob/main/README.md
+        
 # Other Tickets
   - <b>Help Desk Ticket: Computer won't power on!<b>
     - https://github.com/Xiao-A-lbert/Help-Desk-Ticket-Computer-Won-t-Power-On/tree/main
