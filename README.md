@@ -14,6 +14,8 @@
     - https://github.com/Xiao-A-lbert/Scheduling-Tasks-with-Cronjobs-in-Linux/tree/main
   - <b>Ethical Hacking Intro: Network Port Scanning with Nmap</b>
     - https://github.com/Xiao-A-lbert/Ethical-Hacking-Intro-Network-Port-Scanning-with-Nmap/blob/main/README.md
+  - <b>Installing Docker and Peppermint in Linux Mint 22</b>
+    - https://github.com/Xiao-A-lbert/Installing-Docker-and-Peppermint Ticketing-in-Linux-Mint-22
 
 # Windows 
   - <b>Administering Users in Windows 11<b>
