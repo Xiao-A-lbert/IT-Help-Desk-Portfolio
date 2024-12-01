@@ -1,4 +1,4 @@
-# IT-Help-Desk-Portfolio
+# IT Help Desk Portfolio
 <h1>Hi, I'm Albert!
 
 <h2>Here are my Help Desk skills and experiences from the Practical Help Desk Course by TCM Security</h2>
