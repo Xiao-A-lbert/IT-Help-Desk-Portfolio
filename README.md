@@ -28,6 +28,8 @@
     - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-1-Configuring-Server-Domain-Controller/blob/main/README.md
   - <b>Active Directory Home Lab Part 2: Organizational Units and Groups<b>
     - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-2-Organizational-Units-and-Groups/blob/main/README.md
+  - <b>Active Directory Home Lab Part 3: Group Policy Objects<b>
+    - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-3-Group-Policy-Objects/blob/main/README.md
   
         
 # Other Tickets
