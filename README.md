@@ -31,7 +31,7 @@
   - <b>Active Directory Home Lab Part 3: Group Policy Objects<b>
     - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-3-Group-Policy-Objects/blob/main/README.md
   - <b>Active Directory Home Lab Part 4: Password Reset Lockout Policy<b>
-    -https://github.com/Xiao-A-lbert/Active-Directory-Password-Reset-Lockout-Policy/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Active-Directory-Password-Reset-Lockout-Policy/blob/main/README.md
         
 # Other Tickets
   - <b>Help Desk Ticket: Computer won't power on!<b>
