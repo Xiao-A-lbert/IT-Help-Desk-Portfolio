@@ -22,17 +22,17 @@
   - <b>Administering Users in Windows 11<b>
     - https://github.com/Xiao-A-lbert/Administering-Users-in-Windows-11
   - <b>Windows 11 Virtual Machine Setup in virtualbox<b>
-    - https://github.com/Xiao-A-lbert/Windows-11-Virtual-Machine-Setup-in-virtualbox/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Windows-11-Virtual-Machine-Setup-in-virtualbox/tree/main 
   - <b>Active Directory Home Lab Part 1: Configuring Server Domain Controller<b>
-    - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-1-Configuring-Server-Domain-Controller/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-1-Configuring-Server-Domain-Controller/tree/main
   - <b>Active Directory Home Lab Part 2: Organizational Units and Groups<b>
-    - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-2-Organizational-Units-and-Groups/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-2-Organizational-Units-and-Groups
   - <b>Active Directory Home Lab Part 3: Group Policy Objects<b>
-    - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-3-Group-Policy-Objects/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-3-Group-Policy-Objects/tree/main
   - <b>Active Directory Home Lab Part 4: Password Reset Lockout Policy<b>
-    - https://github.com/Xiao-A-lbert/Active-Directory-Password-Reset-Lockout-Policy/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Active-Directory-Password-Reset-Lockout-Policy/tree/main
   - <b>Active Directory Home Lab Part 5: Automating Tasks with Powershell<b>
-    - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-5-Automating-Tasks-with-Powershell/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Active-Directory-Home-Lab-Part-5-Automating-Tasks-with-Powershell/tree/main
         
 # Other Tickets
   - <b>Help Desk Ticket: Computer won't power on!<b>
@@ -40,8 +40,8 @@
   - <b>Help Desk Ticket: My internet won't work!<b>
     - https://github.com/Xiao-A-lbert/Help-Desk-Ticket-My-internet-won-t-work-/tree/main
   - <b>Peppermint Ticketing User Administration and Ticket Escalation<b>
-    - https://github.com/Xiao-A-lbert/Peppermint-Ticketing-User-Administration-and-Ticket-Escalation/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Peppermint-Ticketing-User-Administration-and-Ticket-Escalation/tree/main
   - <b>Help Desk Ticket: Ticket Documentation and Escalation<b>
-    - https://github.com/Xiao-A-lbert/Help-Desk-Ticket-Ticket-Documentation-and-Escalation/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Help-Desk-Ticket-Ticket-Documentation-and-Escalation/tree/main
   - <b>Help Desk Ticket: Active Directory Background Lock<b>
-    - https://github.com/Xiao-A-lbert/Help-Desk-Ticket-Active-Directory-Background-Lock/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Help-Desk-Ticket-Active-Directory-Background-Lock/tree/main
