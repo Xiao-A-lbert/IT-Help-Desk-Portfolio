@@ -7,18 +7,17 @@
 
 # Linux
   - <b>Help Desk Ticket: Administering Users in Linux</b>
-    - https://github.com/Xiao-A-lbert/Administering-Users-in-Linux/blob/main/README.md 
+    - https://github.com/Xiao-A-lbert/Administering-Users-in-Linux/tree/main
   - <b>Bash Scripting in Linux</b>
-    - https://github.com/Xiao-A-lbert/Bash-Scripting-in-Linux/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Bash-Scripting-in-Linux/tree/main
   - <b>Scheduling Tasks with Cronjobs in Linux</b>
     - https://github.com/Xiao-A-lbert/Scheduling-Tasks-with-Cronjobs-in-Linux/tree/main
   - <b>Ethical Hacking Intro: Network Port Scanning with Nmap</b>
-    - https://github.com/Xiao-A-lbert/Ethical-Hacking-Intro-Network-Port-Scanning-with-Nmap/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Ethical-Hacking-Intro-Network-Port-Scanning-with-Nmap/tree/main
   - <b>Installing Docker and Peppermint in Linux Mint 22</b>
-    - [https://github.com/Xiao-A-lbert/Installing-Docker-and-Peppermint Ticketing-in-Linux-Mint-22](https://github.com/Xiao-A-lbert/Installing-Docker-and-Peppermint-in-Linux-Mint-22)
+    - https://github.com/Xiao-A-lbert/Installing-Docker-and-Peppermint-in-Linux-Mint-22
   - <b>RDP into a Windows Machine from Linux<b>
-    - https://github.com/Xiao-A-lbert/RDP-into-Windows-Machine-from-Linux/blob/main/README.md
-
+    - https://github.com/Xiao-A-lbert/RDP-into-Windows-Machine-from-Linux/tree/main
 # Windows 
   - <b>Administering Users in Windows 11<b>
     - https://github.com/Xiao-A-lbert/Administering-Users-in-Windows-11
