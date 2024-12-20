@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Albert!
 
-<h2>Here are my skills and experiences I've gained from TCM Security's Practical Help Desk training course</h2>
+<h2>Here are my skills and experiences gained from TCM Security's Practical Help Desk training course</h2>
 
 <h3>👨‍💻 IT Skills:</h3>
 
